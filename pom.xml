@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.wwa.devops</groupId>
 	<artifactId>lib-example</artifactId>
-	<version>1.1-0</version>
+	<version>1.1-SNAPSHOT</version>
 	<description>Test library</description>
 	<packaging>jar</packaging>
 
